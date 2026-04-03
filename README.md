@@ -1,4 +1,4 @@
-Simple Product Management Sytem Using Class and Object to store and Operaional ADD/READ/DELETE.
+Simple PHP Product Management Sytem Using Class and Object to store and Operaional ADD/READ/DELETE.
 This sytem build for simple no using any database.
 
 <img width="200" height="200" alt="num" src="https://github.com/user-attachments/assets/466b877d-1ddf-4c49-917e-56c574bc38e8" />
